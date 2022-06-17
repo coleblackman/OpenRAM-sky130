@@ -1,21 +1,16 @@
-![](./images/OpenRAM_logo_yellow_transparent.svg)
-# OpenRAM
-
-[![Python 3.5](https://img.shields.io/badge/Python-3.5-green.svg)](https://www.python.org/)
-[![License: BSD 3-clause](./images/license_badge.svg)](./LICENSE)
-[![Download](./images/download-stable-blue.svg)](https://github.com/VLSIDA/OpenRAM/archive/stable.zip)
-[![Download](./images/download-unstable-blue.svg)](https://github.com/VLSIDA/OpenRAM/archive/dev.zip)
+# OpenRAM-sky130
 
 An open-source static random access memory (SRAM) compiler.
 
 # What is OpenRAM?
-<img align="right" width="25%" src="images/SCMOS_16kb_sram.jpg">
 
 OpenRAM is an award winning open-source Python framework to create the layout,
 netlists, timing and power models, placement and routing models, and
 other views necessary to use SRAMs in ASIC design. OpenRAM supports
 integration in both commercial and open-source flows with both
 predictive and fabricable technologies.
+
+This is a fork which injects skywater130 technology files.
 
 # Documentation
 
